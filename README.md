@@ -10,8 +10,7 @@ I am a recent graduate of Auburn University with a degree in Computer Science. H
 - Web Development
 - Amazon Web Services (AWS) roles
 
-During my time at Auburn, I gained a solid foundation in various computer science domains, and I am keen to transition this theoretical understanding into real-world applications.
-
+While at Auburn, I acquired a comprehensive understanding of key computer science areas and am now eager to apply this knowledge in practical settings.
 
 ## Repository Highlights
 
